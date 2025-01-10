@@ -12,6 +12,9 @@ public class Lab012_PrintVsPrintln {
             System.out.print(2 * 2);
             System.out.print(2-2);
             System.out.print(2 / 4); //Prints in same line
+
+
+
         }
 }
 
